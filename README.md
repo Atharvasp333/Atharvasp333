@@ -7,44 +7,32 @@ I am a 3rd-year Information Technology student at VESIT, Mumbai. I build scalabl
 
 ## 🛠️ Tech Stack
 
-**Frontend**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Three Fiber](https://img.shields.io/badge/React_Three_Fiber-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Inngest](https://img.shields.io/badge/Inngest-5C2D91?style=for-the-badge&logoColor=white)
-
-**Databases**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-**AI & ML**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logoColor=black)
-![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<p align="left">
+  <img src="https://cdn.simpleicons.org/nextdotjs/black/white" width="40" height="40" alt="Next.js" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/react/61DAFB" width="40" height="40" alt="React" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/threedotjs/black/white" width="40" height="40" alt="React Three Fiber" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="40" height="40" alt="Tailwind CSS" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/flutter/02569B" width="40" height="40" alt="Flutter" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="40" height="40" alt="Node.js" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/express/black/white" width="40" height="40" alt="Express.js" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/socketdotio/black/white" width="40" height="40" alt="Socket.io" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/prisma/2D3748/white" width="40" height="40" alt="Prisma" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/inngest/black/white" width="40" height="40" alt="Inngest" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" width="40" height="40" alt="MongoDB" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="40" height="40" alt="PostgreSQL" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/redis/DC382D" width="40" height="40" alt="Redis" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/firebase/FFCA28" width="40" height="40" alt="Firebase" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/python/3776AB" width="40" height="40" alt="Python" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="40" height="40" alt="OpenCV" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/ultralytics/black/white" width="40" height="40" alt="YOLOv8" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="40" height="40" alt="Gemini AI" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/amazonaws/232F3E/white" width="40" height="40" alt="AWS Bedrock" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/git/F05032" width="40" height="40" alt="Git" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/github/181717/white" width="40" height="40" alt="GitHub" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/vercel/black/white" width="40" height="40" alt="Vercel" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/figma/F24E1E" width="40" height="40" alt="Figma" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/docker/2496ED" width="40" height="40" alt="Docker" />
+</p>
 
 ---
 
