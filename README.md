@@ -5,30 +5,7 @@ I am a 3rd-year Information Technology student at VESIT, Mumbai. I build scalabl
 
 ## 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://cdn.simpleicons.org/html5/E34F26" width="40" height="40" alt="HTML5" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40" height="40" alt="JavaScript" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" width="40" height="40" alt="TypeScript" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/python/3776AB" width="40" height="40" alt="Python" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/nextdotjs/black/white" width="40" height="40" alt="Next.js" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/react/61DAFB" width="40" height="40" alt="React" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/threedotjs/black/white" width="40" height="40" alt="React Three Fiber" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="40" height="40" alt="Tailwind CSS" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/flutter/02569B" width="40" height="40" alt="Flutter" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="40" height="40" alt="Node.js" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/express/black/white" width="40" height="40" alt="Express.js" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/socketdotio/black/white" width="40" height="40" alt="Socket.io" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/prisma/2D3748/white" width="40" height="40" alt="Prisma" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" width="40" height="40" alt="MongoDB" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="40" height="40" alt="PostgreSQL" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/redis/DC382D" width="40" height="40" alt="Redis" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/firebase/FFCA28" width="40" height="40" alt="Firebase" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/git/F05032" width="40" height="40" alt="Git" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/github/181717/white" width="40" height="40" alt="GitHub" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/vercel/black/white" width="40" height="40" alt="Vercel" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/docker/2496ED" width="40" height="40" alt="Docker" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/figma/F24E1E" width="40" height="40" alt="Figma" />
-</p>
+![Tech Stack](https://skillicons.dev/icons?i=html,js,ts,py,nextjs,react,threejs,tailwind,flutter,nodejs,express,mongodb,postgres,redis,firebase,prisma,git,github,vercel,docker,figma&perline=21)
 
 ## 📌 Featured Projects
 
