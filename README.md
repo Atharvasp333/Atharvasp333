@@ -15,6 +15,9 @@ A comprehensive farming application platform built to assist farmers with modern
 ### [KindMeals](https://github.com/Atharvasp333/KindMeals)
 A cross-platform mobile application designed for food donation and waste management, connecting donors with NGOs in real-time.
 
+### [Follicia](https://github.com/Atharvasp333/Follicia)
+A data-driven e-commerce ecosystem that personalizes hair care via a biological diagnostic quiz and uses Gemini AI to automate customer sentiment analysis and ERP operations.
+
 ### [Multiversal Rush](https://github.com/Atharvasp333/Multiversal-Rush)
 A 3D multiplayer web game supporting real-time matches across four interactive maps, played directly in the browser.
 
