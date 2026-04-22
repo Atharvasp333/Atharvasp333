@@ -9,7 +9,7 @@ I am a 3rd-year Information Technology student at VESIT, Mumbai. I build scalabl
 
 ## 📌 Featured Projects
 
-### [KisaanSaathi](https://github.com/Atharvasp333/KisaanSetu)
+### [KisaanSetu](https://github.com/Atharvasp333/KisaanSetu)
 A comprehensive farming application platform built to assist farmers with modern agricultural needs and streamlined processes.
 
 ### [KindMeals](https://github.com/Atharvasp333/KindMeals)
